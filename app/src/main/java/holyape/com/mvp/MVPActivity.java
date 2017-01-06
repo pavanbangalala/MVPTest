@@ -10,4 +10,8 @@ public class MVPActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mvp);
     }
+
+    private void init(){
+        
+    }
 }
